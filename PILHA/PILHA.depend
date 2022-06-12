@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655058484 source:e:\aula\ed\pilha\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
